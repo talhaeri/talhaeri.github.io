@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #808080;
+}
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+}
+
+html{
+    font-family: "Open Sans", "Sans Serif";
+}
+.profilpht{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+}
